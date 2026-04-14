@@ -45,3 +45,10 @@ Just a clean idea executed properly.
 # NOTE:
 This is a work in progress — and that’s intentional.
 We’re focusing on understanding the problem deeply and building a solution step by step, instead of rushing to make it look “complete”.
+
+
+## Progress Update
+
+- Created basic structure of scheduler core
+- Implemented Process class
+- Initialized SchedulerCore class
