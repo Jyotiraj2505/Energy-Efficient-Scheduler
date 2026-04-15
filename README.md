@@ -47,8 +47,14 @@ This is a work in progress — and that’s intentional.
 We’re focusing on understanding the problem deeply and building a solution step by step, instead of rushing to make it look “complete”.
 
 
-## Progress Update
+# Progress Update
 
 - Created basic structure of scheduler core
 - Implemented Process class
 - Initialized SchedulerCore class
+
+# Progress Update
+
+- Implemented energy score calculation
+- Added energy classification (HIGH, MEDIUM, LOW)
+- Integrated energy profiling into scheduler
